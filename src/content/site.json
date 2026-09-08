@@ -1,0 +1,349 @@
+{
+ "topbar": {
+  "links": [
+   {
+    "label": "1540 West Alabama, Suite 200, Houston, TX 77006",
+    "href": "https://www.google.com/maps?sca_esv=44ea4fb9ad3aef3e&output=search&q=my+dear+dentist+houston&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIetxLMeWi1u_d0OMRvkClUbalBeyXa8ssyRd_VUj5FQB2E437P4FFzMjjSm-7COSYVAdt8Bk2a48RIEOubbTEwEaSi9X_JicEmfrG_n1jtB_0qXAH9QmUyyK1sElsBmf-Xrpxo3NFQR6YSLVMCijWW-pnPDRZrJRA-KPKwx4beeNRD8qjeA&entry=mc&ved=1t:200715&ictx=111",
+    "icon": null
+   },
+   {
+    "label": "",
+    "href": "https://www.facebook.com/p/My-Dear-Dentist-61574768782876/",
+    "icon": [
+     "fab",
+     "fa-facebook-f"
+    ]
+   },
+   {
+    "label": "",
+    "href": "https://www.instagram.com/mydeardentist/",
+    "icon": [
+     "fab",
+     "fa-instagram"
+    ]
+   },
+   {
+    "label": "",
+    "href": "https://www.tiktok.com/@mydeardentist",
+    "icon": [
+     "fab",
+     "fa-tiktok"
+    ]
+   }
+  ]
+ },
+ "logo": {
+  "src": "https://mydeardentist.net/wp-content/uploads/2025/07/asset-3a.png",
+  "alt": "My Dear Dentist",
+  "href": "/"
+ },
+ "header_links": [
+  {
+   "label": "(281) 653-1818",
+   "href": "tel:2816531818"
+  },
+  {
+   "label": "Book Online",
+   "href": "https://flexbook.me/mydeardent/MDDnet"
+  }
+ ],
+ "header_text": [
+  "Services",
+  "General Dentistry",
+  "Cleaning & Exams",
+  "Emergency Dentistry",
+  "Root Canals",
+  "Dental Crowns",
+  "Fillings",
+  "Wisdom Teeth",
+  "Sleep Dentistry",
+  "Sleep Apnea",
+  "Cosmetic Dentistry",
+  "Invisalign Expansive Aligners",
+  "Teeth Whitening",
+  "Biological Dentistry",
+  "Meet our Doctors",
+  "New Patients",
+  "(281) 653-1818",
+  "Book Online",
+  "Select Page"
+ ],
+ "nav": [
+  {
+   "label": "Services",
+   "href": "/services/",
+   "children": [
+    {
+     "label": "General Dentistry",
+     "href": "/services/general-dentistry/"
+    },
+    {
+     "label": "Cleaning & Exams",
+     "href": "/services/dental-cleaning/"
+    },
+    {
+     "label": "Emergency Dentistry",
+     "href": "/services/emergency-dentistry/"
+    },
+    {
+     "label": "Root Canals",
+     "href": "/services/root-canals/"
+    },
+    {
+     "label": "Dental Crowns",
+     "href": "/services/dental-crowns/"
+    },
+    {
+     "label": "Fillings",
+     "href": "/services/dental-fillings/"
+    },
+    {
+     "label": "Wisdom Teeth",
+     "href": "/services/wisdom-tooth-removal/"
+    },
+    {
+     "label": "Sleep Dentistry",
+     "href": "/services/sleep-dentistry/"
+    },
+    {
+     "label": "Sleep Apnea",
+     "href": "/services/sleep-apnea/"
+    },
+    {
+     "label": "Cosmetic Dentistry",
+     "href": "/services/cosmetic-dentistry/"
+    },
+    {
+     "label": "Invisalign Expansive Aligners",
+     "href": "/services/invisalign-expansive-aligners/"
+    },
+    {
+     "label": "Teeth Whitening",
+     "href": "/services/teeth-whitening/"
+    },
+    {
+     "label": "Biological Dentistry",
+     "href": "/services/biological-dentistry/"
+    }
+   ]
+  },
+  {
+   "label": "Meet our Doctors",
+   "href": "/about/"
+  },
+  {
+   "label": "New Patients",
+   "href": "/new-patients/"
+  },
+  {
+   "label": "(281) 653-1818",
+   "href": "tel:2816531818"
+  },
+  {
+   "label": "Book Online",
+   "href": "https://flexbook.me/mydeardent/MDDnet"
+  }
+ ],
+ "footer": [
+  {
+   "id": "",
+   "bg": null,
+   "rows": [
+    {
+     "id": "",
+     "columns": [
+      {
+       "width": "1_6",
+       "modules": [
+        {
+         "type": "image",
+         "divi": "et_pb_image",
+         "src": "https://mydeardentist.net/wp-content/uploads/2025/08/mydear-icon.webp",
+         "alt": ""
+        }
+       ]
+      },
+      {
+       "width": "1_6",
+       "modules": [
+        {
+         "type": "menu",
+         "divi": "dsm_menu",
+         "title": "Services",
+         "items": [
+          {
+           "label": "General Dentistry",
+           "href": "/services/general-dentistry/"
+          },
+          {
+           "label": "Sleep Dentistry",
+           "href": "/services/sleep-dentistry/"
+          },
+          {
+           "label": "Cosmetic Dentistry",
+           "href": "/services/cosmetic-dentistry/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "width": "1_6",
+       "modules": [
+        {
+         "type": "menu",
+         "divi": "dsm_menu",
+         "title": "Practice",
+         "items": [
+          {
+           "label": "Home",
+           "href": "/"
+          },
+          {
+           "label": "About",
+           "href": "/about/"
+          },
+          {
+           "label": "Services",
+           "href": "/services/"
+          },
+          {
+           "label": "New Patients",
+           "href": "/new-patients/"
+          },
+          {
+           "label": "Contact",
+           "href": "/contact/"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "width": "1_6",
+       "modules": [
+        {
+         "type": "text",
+         "divi": "et_pb_text",
+         "html": "<h3>Office</h3><p><a href=\"https://www.google.com/maps?sca_esv=44ea4fb9ad3aef3e&amp;output=search&amp;q=my+dear+dentist+houston&amp;source=lnms&amp;fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIetxLMeWi1u_d0OMRvkClUbalBeyXa8ssyRd_VUj5FQB2E437P4FFzMjjSm-7COSYVAdt8Bk2a48RIEOubbTEwEaSi9X_JicEmfrG_n1jtB_0qXAH9QmUyyK1sElsBmf-Xrpxo3NFQR6YSLVMCijWW-pnPDRZrJRA-KPKwx4beeNRD8qjeA&amp;entry=mc&amp;ved=1t:200715&amp;ictx=111\">1540 West Alabama<br/>Suite 200<br/>Houston, TX 77006</a></p><p><a href=\"tel:2816531818\">(281) 653-1818</a></p><p><a href=\"mailto:info@mydeardentist.net\"> info@mydeardentist.net </a></p>"
+        }
+       ]
+      },
+      {
+       "width": "1_6",
+       "modules": [
+        {
+         "type": "menu",
+         "divi": "dsm_menu",
+         "title": "Review Us",
+         "items": [
+          {
+           "label": "Google",
+           "href": "https://www.google.com/search?q=my+dear+dentist+houston&oq=my+dear+dentist+&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDsyBggCEEUYQDIKCAMQRRgWGB4YOTIICAQQABgWGB4yCAgFEAAYFhgeMgYIBhBFGDwyBggHEEUYPdIBCDQ4MTNqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "width": "1_6",
+       "modules": [
+        {
+         "type": "text",
+         "divi": "et_pb_text",
+         "html": "<h3>Social</h3>"
+        },
+        {
+         "type": "social_media_follow",
+         "divi": "et_pb_social_media_follow",
+         "text": "Follow Follow Follow",
+         "html": "<ul><li><a href=\"https://www.facebook.com/p/My-Dear-Dentist-61574768782876/\">Follow</a></li><li><a href=\"https://www.instagram.com/mydeardentist/\">Follow</a></li><li><a href=\"https://www.tiktok.com/@mydeardentist\">Follow</a></li></ul>"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "",
+     "columns": [
+      {
+       "width": "3_5",
+       "modules": [
+        {
+         "type": "text",
+         "divi": "et_pb_text",
+         "html": "© My Dear Dentist 2026 | <a href=\"/privacy-policy\">Privacy Policy</a> | <a href=\"/accessibility-statement\">Accessibility Statement</a> | <a href=\"/hipaa-notice-of-privacy-practices/\">HIPAA Notice</a>"
+        }
+       ]
+      },
+      {
+       "width": "2_5",
+       "modules": []
+      }
+     ]
+    },
+    {
+     "id": "",
+     "columns": [
+      {
+       "width": "1_3",
+       "modules": [
+        {
+         "type": "blurb",
+         "divi": "et_pb_blurb",
+         "icon": "",
+         "title": "Phone",
+         "href": "tel:2816531818",
+         "html": ""
+        }
+       ]
+      },
+      {
+       "width": "1_3",
+       "modules": [
+        {
+         "type": "blurb",
+         "divi": "et_pb_blurb",
+         "icon": "",
+         "title": "Book Online",
+         "href": "https://flexbook.me/mydeardent/MDDnet",
+         "html": ""
+        }
+       ]
+      },
+      {
+       "width": "1_3",
+       "modules": [
+        {
+         "type": "blurb",
+         "divi": "et_pb_blurb",
+         "icon": "",
+         "title": "Directions",
+         "href": "https://www.google.com/maps?sca_esv=44ea4fb9ad3aef3e&output=search&q=my+dear+dentist+houston&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIetxLMeWi1u_d0OMRvkClUbalBeyXa8ssyRd_VUj5FQB2E437P4FFzMjjSm-7COSYVAdt8Bk2a48RIEOubbTEwEaSi9X_JicEmfrG_n1jtB_0qXAH9QmUyyK1sElsBmf-Xrpxo3NFQR6YSLVMCijWW-pnPDRZrJRA-KPKwx4beeNRD8qjeA&entry=mc&ved=1t:200715&ictx=111",
+         "html": ""
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "extras": [
+  {
+   "class": "",
+   "text": [
+    "My Dear Dentist uses cookies. By continuing to use this website, you agree to their use and to our",
+    "Privacy Policy",
+    ".",
+    "Close & Accept"
+   ],
+   "links": [
+    {
+     "label": "Privacy Policy",
+     "href": "/privacy-policy/"
+    }
+   ]
+  }
+ ]
+}
